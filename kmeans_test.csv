@@ -1,0 +1,5 @@
+dataset,representation,seed,n_clusters,n_test_samples,test_cluster_counts,test_distinct_clusters,test_ari,test_silhouette
+breast_cancer,unscaled,42,2,114,cluster 0: 86; cluster 1: 28,2,0.5584884553059529,0.7119990457943489
+breast_cancer,scaled,42,2,114,cluster 0: 74; cluster 1: 40,2,0.7353808445227874,0.3250621931086193
+wine,unscaled,42,3,36,cluster 0: 14; cluster 1: 10; cluster 2: 12,3,0.3733228463033219,0.49288000001742077
+wine,scaled,42,3,36,cluster 0: 13; cluster 1: 13; cluster 2: 10,3,0.9087939960390535,0.27111968980089884
