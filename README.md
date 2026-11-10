@@ -3,8 +3,8 @@
 Breast Cancer Wisconsin and Wine Classification: Decision Tree, KNN, Gaussian Naive Bayes and K-Means,
 with three training/validation seeds (42, 52, 62) and a fixed test set.
 
-- Repository: [PASTE REPOSITORY LINK HERE]
-- Video: [PASTE VIDEO LINK HERE]
+- Repository:(https://github.com/yigitcihan82/machinelearningproject)
+- Video: https://youtu.be/ZqxUf4KzoCg
 
 ## Dataset sources
 
